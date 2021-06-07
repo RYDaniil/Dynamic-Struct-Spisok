@@ -1,0 +1,13 @@
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\bin\Debug\netcoreapp3.1\LabList.exe
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\bin\Debug\netcoreapp3.1\LabList.deps.json
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\bin\Debug\netcoreapp3.1\LabList.runtimeconfig.json
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\bin\Debug\netcoreapp3.1\LabList.runtimeconfig.dev.json
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\bin\Debug\netcoreapp3.1\LabList.dll
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\bin\Debug\netcoreapp3.1\LabList.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.AssemblyInfoInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.AssemblyInfo.cs
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.csproj.CoreCompileInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.dll
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\LabList\obj\Debug\netcoreapp3.1\LabList.genruntimeconfig.cache
